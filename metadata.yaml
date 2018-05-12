@@ -1,0 +1,38 @@
+_repo: The-PatriotPiccolo-Mondo-Antico_33778
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Agnetti, Mary Prichard
+    aliases:
+    - Prichard, Mary Agnetti
+    - Agnetti-Pritchard, M.
+    - Prichard-Agnetti, M.
+    - Prichard-Agnetti, Mary
+    gutenberg_agent_id: '33005'
+    url: http://www.gutenberg.org/2009/agents/33005
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fogazzaro, Antonio
+    birthdate: 1842
+    deathdate: 1911
+    gutenberg_agent_id: '2759'
+    url: http://www.gutenberg.org/2009/agents/2759
+    wikipedia: http://en.wikipedia.org/wiki/Antonio_Fogazzaro
+description: ''
+gutenberg_issued: '2010-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33778'
+  lccn: '07000444'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Fiction'
+- !lcc 'PQ'
+title: The Patriot (Piccolo Mondo Antico)
+url: http://www.gutenberg.org/ebooks/33778
